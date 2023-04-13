@@ -1,5 +1,4 @@
 
-/* pENDIENTE LINEHEIGTH */
 
 
 :root {
@@ -37,14 +36,14 @@ button {
   font-size: var(--logo-font-size);
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 .nav-link {
   color: var(--subtitle-color);
   font-size: var(--text-font-size);
   font-weight: 500;
   line-height: 1.1;
-  letter-spacing: 2px;
+  letter-spacing: 0.02em;
 }
 .active {
   color: var(--main-color);
@@ -58,7 +57,7 @@ button {
   font-size: var(--text-font-size);
   font-weight: 500;
   line-height: 1.1;
-  letter-spacing: 2px;
+  letter-spacing: 0.02em;
 }
 .contact .contact-link:hover,
 .contact .contact-link:focus {
@@ -75,7 +74,7 @@ button {
   font-size: var(--title-font-size);
   font-weight: 900;
   line-height: 1.4;
-  letter-spacing: 6px;
+  letter-spacing: 0.06em;
 }
 .hero-button {
   background-color: var(--main-color);
@@ -83,7 +82,7 @@ button {
   font-size: var(--button-font-size);
   font-weight: 700;
   line-height: 1.9;
-  letter-spacing: 6px;
+  letter-spacing: 0.06em;
 }
 .hero .hero-button:hover,
 .hero .hero-button:focus {
@@ -96,14 +95,14 @@ button {
   font-size: var(--text-font-size);
   font-weight: 700;
   line-height: 1.1;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 .characteristics-text {
   color: var(--text-color);
   font-size: var(--text-font-size);
   font-weight: 400;
   line-height: 1.7;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 
 
@@ -111,7 +110,7 @@ button {
   font-size: var(--subtitle-font-size);
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
   color: var(--subtitle-color);
 }
 
@@ -124,20 +123,20 @@ button {
   font-size: var(--subtitle-font-size);
   font-weight: 700;
   line-height: 1.2;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 .team-card-name {
   font-size: var(--button-font-size);
   font-weight: 500;
   line-height: 1.1;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
   color: var(--subtitle-color);
 }
 .team-card-job {
   font-size: var(--button-font-size);
   font-weight: 400;
   line-height: 1.1;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
   color: var(--text-color);
 }
 
@@ -150,7 +149,7 @@ button {
   font-size: var(--text-font-size);
   font-weight: 400;
   line-height: 1.7;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 .footer .contact-item {
   line-height: 1.7;
@@ -168,7 +167,7 @@ button {
   font-size: var(--button-font-size);
   font-weight: 500;
   line-height: 1.6;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
 .filters .filters-button:hover,
 .filters .filters-button:focus {
@@ -182,12 +181,12 @@ button {
   font-size: var(--card-font-size);
   font-weight: 700;
   line-height: 2;
-  letter-spacing: 6px;
+  letter-spacing: 0.06em;
 }
 .categories-text {
   color: var(--text-color);
   font-size: var(--button-font-size);
   font-weight: 400;
   line-height: 1.9;
-  letter-spacing: 3px;
+  letter-spacing: 0.03em;
 }
